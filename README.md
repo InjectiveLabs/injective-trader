@@ -495,7 +495,7 @@ This project has an **Alpha release available** with **Beta currently in develop
 ## Support
 
 For questions and support:
-- Review the [official Injective Trader documentation](https://docs.injective.network/developers-defi/injective-trader) and examples
+- Review the [official Injective Trader documentation](https://docs.injective.network/developers-defi/injective-trader) and [examples](https://github.com/InjectiveLabs/injective-trader/tree/master/examples)
 - Check existing issues in the repository
 - Follow best practices for strategy development
 
