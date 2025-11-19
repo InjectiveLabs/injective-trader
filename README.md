@@ -64,10 +64,10 @@ FileLevel: DEBUG
 
 Components:
   Initializer:
+    BotName: "MyBot"
     Network: mainnet
     MarketTickers:
       - INJ/USDT PERP
-      - ETH/USDT PERP
   ChainListener:
     ReconnectionDelay: 5
     LargeGapThreshold: 2
